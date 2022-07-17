@@ -4,4 +4,6 @@
 
 
 
-![](/home/dump/Imagens/github.png)
+<img src="/home/dump/Imagens/github.png" style="zoom:50%;" />
+
+- [ ] Atualizar
